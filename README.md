@@ -17,4 +17,4 @@ A command line executable pipeline for data harvesting and analysis. Allows near
 ### Data example:
 ![alt text][logo]
 
-[logo]: https://github.com/mattjenkins3/SinglePlant_Irrigation_DataTool/blob/master/images/smooth_plot3.png "main battery minimum voltage over time"
+[logo]: https://github.com/mattjenkins3/SinglePlant_Irrigation_DataTool/blob/master/images/06.15-28.18_battV.png "main panel temp over time"
